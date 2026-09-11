@@ -1,3 +1,9 @@
+<!-- app-release:start -->
+[**Descargar APK v3**](https://github.com/ricardoyf/TXTReader/releases/download/v3/TXTReader-v3.apk) · [SHA-256](https://github.com/ricardoyf/TXTReader/releases/download/v3/TXTReader-v3.apk.sha256)
+
+`7cbbe356cf108d0c731af56076f131a9ac70882181996a04faccb513f86a0862`
+<!-- app-release:end -->
+
 # TXT Reader
 
 App Android nativa en **Kotlin + Jetpack Compose** para leer archivos **.txt locales** en el móvil.
@@ -53,7 +59,6 @@ com.ricardo.txtreader/
 Cuando el entorno tenga toolchain Android real:
 
 ```bash
-cd /home/n95/.openclaw/workspace/TXT
 ./gradlew assembleDebug
 ```
 
@@ -62,16 +67,6 @@ APK esperado:
 ```text
 app/build/outputs/apk/debug/app-debug.apk
 ```
-
-## Bloqueo real de este entorno
-
-No pude generar el APK aquí porque faltan herramientas base:
-
-- `java` no está instalado
-- `./gradlew` no existe todavía porque no se pudo generar wrapper sin Java/Gradle
-- no se confirmó un Android SDK funcional
-
-El proyecto queda listo para abrir en Android Studio y compilar allí.
 
 ## Mejoras opcionales
 
