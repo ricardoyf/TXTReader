@@ -1,5 +1,5 @@
 <!-- app-release:start -->
-[**Descargar APK v3**](https://github.com/ricardoyf/TXTReader/releases/download/v3/TXTReader-v3.apk) · [SHA-256](https://github.com/ricardoyf/TXTReader/releases/download/v3/TXTReader-v3.apk.sha256)
+[**Descargar APK v3**](https://github.com/ricardoyf/TXTReader/raw/refs/tags/v3/release-artifacts/v3/TXTReader-v3.apk) · [SHA-256](https://github.com/ricardoyf/TXTReader/raw/refs/tags/v3/release-artifacts/v3/TXTReader-v3.apk.sha256)
 
 `7cbbe356cf108d0c731af56076f131a9ac70882181996a04faccb513f86a0862`
 <!-- app-release:end -->
